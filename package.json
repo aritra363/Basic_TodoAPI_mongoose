@@ -1,0 +1,14 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Aritra",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  }
+}
